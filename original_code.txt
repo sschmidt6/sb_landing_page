@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>The Schmidt Brothers Band</title>
+</head>
+<body>
+
+<h1>Follow us on social media!</h1>
+<p>
+<a href="https://www.facebook.com/schmidtbrothersband">Facebook</a>
+<p>
+<p>
+<a href="https://www.instagram.com/schmidtbrothersband/">Instagram</a>
+<p>
+<p>
+<a href="Venmo Link">Venmo</a>
+<p>
+<p>
+<button onclick="location.href='mailto:theschmidtbrothersband@gmail.com';">Contact The Schmidt Brothers</button>
+<p>
+</body>
+</html>
